@@ -1,6 +1,6 @@
 # Snake
 
-  ~Controls~
+  Controls:
   UP/DOWN ARROW KEYS - change the length of the snake
   LEFT/RIGHT ARROW KEYS - change the width of the snake
   SPACEBAR - change color
